@@ -1,0 +1,7 @@
+const INIL = 'INIL'
+const IAPPEND = 'IAPPEND'
+const ISTR = 'ISTR'
+const IINDENT = 'IINDENT'
+const INEWLINE = 'INEWLINE'
+
+export { INIL, IAPPEND, ISTR, IINDENT, INEWLINE }
